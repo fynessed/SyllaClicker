@@ -56,6 +56,7 @@
             hotkeyButton.TabIndex = 1;
             hotkeyButton.Text = "Change Hotkey";
             hotkeyButton.UseVisualStyleBackColor = true;
+            hotkeyButton.Click += new EventHandler(hotkeyButtonClick);
             // 
             // hotkey
             // 
@@ -113,6 +114,7 @@
             githubLink.Size = new Size(45, 15);
             githubLink.TabIndex = 7;
             githubLink.Text = "GitHub";
+            githubLink.Click += githubLink_Click;
             // 
             // Form1
             // 

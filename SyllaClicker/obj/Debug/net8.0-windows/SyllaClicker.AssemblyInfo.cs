@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyllaClicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222cde1f1d155208410a2dac2bdb08967063b4b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07a2ccc18c643c636f8b5f2beef8bab076b9b4c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyllaClicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyllaClicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
