@@ -1,0 +1,16 @@
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\bin\Debug\net8.0-windows\SyllaClicker.exe
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\bin\Debug\net8.0-windows\SyllaClicker.deps.json
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\bin\Debug\net8.0-windows\SyllaClicker.runtimeconfig.json
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\bin\Debug\net8.0-windows\SyllaClicker.dll
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\bin\Debug\net8.0-windows\SyllaClicker.pdb
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.Form1.resources
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.csproj.GenerateResource.cache
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.AssemblyInfoInputs.cache
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.AssemblyInfo.cs
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.csproj.CoreCompileInputs.cache
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.dll
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\refint\SyllaClicker.dll
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.pdb
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.genruntimeconfig.cache
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\ref\SyllaClicker.dll
