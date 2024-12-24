@@ -127,6 +127,7 @@
             Controls.Add(hotkey);
             Controls.Add(hotkeyButton);
             Controls.Add(hotkeyLabel);
+            KeyPreview = true;
             Name = "Form1";
             Text = "SyllaClicker";
             Load += Form1_Load;

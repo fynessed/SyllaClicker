@@ -14,3 +14,4 @@ C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\refi
 C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.pdb
 C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.genruntimeconfig.cache
 C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\ref\SyllaClicker.dll
+C:\Users\syamc\Documents\syllaclicker\SyllaClicker\obj\Debug\net8.0-windows\SyllaClicker.sourcelink.json
